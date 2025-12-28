@@ -1,0 +1,5 @@
+﻿  飞机大战.cpp
+D:\code\vs\飞机大战\飞机大战\飞机大战.cpp(189,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\code\vs\飞机大战\飞机大战\飞机大战.cpp(189,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\code\vs\飞机大战\飞机大战\飞机大战.cpp(260,32): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  飞机大战.vcxproj -> D:\code\vs\飞机大战\x64\Debug\飞机大战.exe
