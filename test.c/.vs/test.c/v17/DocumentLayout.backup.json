@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\vs\\test.c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFD261C-4BCF-4D7E-8AC9-BCD0B642A620}|test.c\\test.c.vcxproj|D:\\code\\vs\\test.c\\test.c\\graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EEFD261C-4BCF-4D7E-8AC9-BCD0B642A620}|test.c\\test.c.vcxproj|solutionrelative:test.c\\graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "graph.cpp",
+              "DocumentMoniker": "D:\\code\\vs\\test.c\\test.c\\graph.cpp",
+              "RelativeDocumentMoniker": "test.c\\graph.cpp",
+              "ToolTip": "D:\\code\\vs\\test.c\\test.c\\graph.cpp",
+              "RelativeToolTip": "test.c\\graph.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-02T11:08:44.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
