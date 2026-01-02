@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_Learn\\2025\\c_code\\zuijianfenshi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7F809D-75F5-43E0-A82F-B42F477A8025}|zuijianfenshi.vcxproj|D:\\C_Learn\\2025\\c_code\\zuijianfenshi\\zuijianfenshi.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA7F809D-75F5-43E0-A82F-B42F477A8025}|zuijianfenshi.vcxproj|solutionrelative:zuijianfenshi.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zuijianfenshi.c",
+              "DocumentMoniker": "D:\\C_Learn\\2025\\c_code\\zuijianfenshi\\zuijianfenshi.c",
+              "RelativeDocumentMoniker": "zuijianfenshi.c",
+              "ToolTip": "D:\\C_Learn\\2025\\c_code\\zuijianfenshi\\zuijianfenshi.c",
+              "RelativeToolTip": "zuijianfenshi.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-02T12:33:36.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
