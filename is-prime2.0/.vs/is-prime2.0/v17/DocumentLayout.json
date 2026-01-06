@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_Learn\\2025\\c_code\\is-prime2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5167AFCD-E4F0-4325-83C3-6B8EB1DC22F6}|is-prime2.0.vcxproj|D:\\C_Learn\\2025\\c_code\\is-prime2.0\\is_prime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5167AFCD-E4F0-4325-83C3-6B8EB1DC22F6}|is-prime2.0.vcxproj|solutionrelative:is_prime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "is_prime.c",
+              "DocumentMoniker": "D:\\C_Learn\\2025\\c_code\\is-prime2.0\\is_prime.c",
+              "RelativeDocumentMoniker": "is_prime.c",
+              "ToolTip": "D:\\C_Learn\\2025\\c_code\\is-prime2.0\\is_prime.c",
+              "RelativeToolTip": "is_prime.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-06T14:40:05.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
